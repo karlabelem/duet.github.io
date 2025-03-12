@@ -8514,7 +8514,7 @@ s=1
 break
 s=4
 break
-case 5:k=A.x7(B.tH,"https://karlabelem.github.io/duet.github.io/callback",B.a2,!1)
+case 5:k=A.x7(B.tH,"https://karlabelem.github.io/duet.github.io/",B.a2,!1)
 l=A.x7(B.tH,"user-top-read user-library-read user-read-email user-read-private",B.a2,!1)
 window.location.assign("https://accounts.spotify.com/authorize?response_type=token&client_id=4dbf19a959ff4c3bb0992c29ce581668&redirect_uri="+k+"&scope="+l)
 q=new A.ay($.at,t.QZ)
